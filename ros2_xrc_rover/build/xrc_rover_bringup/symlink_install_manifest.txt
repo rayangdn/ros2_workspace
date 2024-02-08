@@ -1,0 +1,17 @@
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/xrc_rover_bringup//launch/xrc_rover_gazebo.launch.xml
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/xrc_rover_bringup//launch/xrc_rover_model.launch.xml
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/ament_index/resource_index/package_run_dependencies/xrc_rover_bringup
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/ament_index/resource_index/parent_prefix_path/xrc_rover_bringup
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/xrc_rover_bringup/environment/ament_prefix_path.sh
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/xrc_rover_bringup/environment/ament_prefix_path.dsv
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/xrc_rover_bringup/environment/path.sh
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/xrc_rover_bringup/environment/path.dsv
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/xrc_rover_bringup/local_setup.bash
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/xrc_rover_bringup/local_setup.sh
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/xrc_rover_bringup/local_setup.zsh
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/xrc_rover_bringup/local_setup.dsv
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/xrc_rover_bringup/package.dsv
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/ament_index/resource_index/packages/xrc_rover_bringup
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/xrc_rover_bringup/cmake/xrc_rover_bringupConfig.cmake
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/xrc_rover_bringup/cmake/xrc_rover_bringupConfig-version.cmake
+/home/rayann/xrc_rover/install/xrc_rover_bringup/share/xrc_rover_bringup/package.xml

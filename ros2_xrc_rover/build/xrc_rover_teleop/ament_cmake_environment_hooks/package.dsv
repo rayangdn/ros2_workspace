@@ -1,0 +1,4 @@
+source;share/xrc_rover_teleop/local_setup.bash
+source;share/xrc_rover_teleop/local_setup.dsv
+source;share/xrc_rover_teleop/local_setup.sh
+source;share/xrc_rover_teleop/local_setup.zsh

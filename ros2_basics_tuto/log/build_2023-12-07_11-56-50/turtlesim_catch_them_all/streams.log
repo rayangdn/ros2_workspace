@@ -1,0 +1,45 @@
+[0.603s] Invoking command in '/home/rayann/ros2_ws/basics_tuto/src/turtlesim_catch_them_all': AMENT_PREFIX_PATH=/home/rayann/ros2_ws/basics_tuto/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rayann/ros2_ws/basics_tuto/install/my_robot_interfaces LD_LIBRARY_PATH=/home/rayann/ros2_ws/basics_tuto/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/rayann/ros2_ws/basics_tuto/build/turtlesim_catch_them_all/prefix_override:/home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/lib/python3.10/site-packages:/home/rayann/ros2_ws/basics_tuto/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_catch_them_all build --build-base /home/rayann/ros2_ws/basics_tuto/build/turtlesim_catch_them_all/build install --record /home/rayann/ros2_ws/basics_tuto/build/turtlesim_catch_them_all/install.log --install-scripts $base/lib/turtlesim_catch_them_all --single-version-externally-managed
+[0.722s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[0.722s]   warnings.warn(
+[0.726s] running egg_info
+[0.727s] creating ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info
+[0.727s] writing ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/PKG-INFO
+[0.727s] writing dependency_links to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/dependency_links.txt
+[0.727s] writing entry points to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/entry_points.txt
+[0.727s] writing requirements to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/requires.txt
+[0.727s] writing top-level names to ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/top_level.txt
+[0.727s] writing manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[0.728s] reading manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[0.729s] writing manifest file '../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[0.729s] running build
+[0.729s] running build_py
+[0.729s] creating /home/rayann/ros2_ws/basics_tuto/build/turtlesim_catch_them_all/build
+[0.729s] creating /home/rayann/ros2_ws/basics_tuto/build/turtlesim_catch_them_all/build/lib
+[0.729s] creating /home/rayann/ros2_ws/basics_tuto/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[0.729s] copying turtlesim_catch_them_all/turtle_spawner.py -> /home/rayann/ros2_ws/basics_tuto/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[0.729s] copying turtlesim_catch_them_all/turtle_controller.py -> /home/rayann/ros2_ws/basics_tuto/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[0.729s] copying turtlesim_catch_them_all/__init__.py -> /home/rayann/ros2_ws/basics_tuto/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[0.729s] running install
+[0.730s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.730s]   warnings.warn(
+[0.730s] running install_lib
+[0.730s] creating /home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+[0.730s] copying /home/rayann/ros2_ws/basics_tuto/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/turtle_spawner.py -> /home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+[0.730s] copying /home/rayann/ros2_ws/basics_tuto/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/turtle_controller.py -> /home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+[0.730s] copying /home/rayann/ros2_ws/basics_tuto/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/__init__.py -> /home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+[0.731s] byte-compiling /home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all/turtle_spawner.py to turtle_spawner.cpython-310.pyc
+[0.731s] byte-compiling /home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all/turtle_controller.py to turtle_controller.cpython-310.pyc
+[0.732s] byte-compiling /home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all/__init__.py to __init__.cpython-310.pyc
+[0.732s] running install_data
+[0.732s] creating /home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/share/ament_index
+[0.732s] creating /home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/share/ament_index/resource_index
+[0.732s] creating /home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[0.732s] copying resource/turtlesim_catch_them_all -> /home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[0.732s] copying package.xml -> /home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/share/turtlesim_catch_them_all
+[0.732s] running install_egg_info
+[0.733s] Copying ../../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info to /home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all-0.0.0-py3.10.egg-info
+[0.734s] running install_scripts
+[0.747s] Installing turtle_spawner script to /home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[0.747s] Installing turtlesim_controller script to /home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[0.748s] writing list of installed files to '/home/rayann/ros2_ws/basics_tuto/build/turtlesim_catch_them_all/install.log'
+[0.770s] Invoked command in '/home/rayann/ros2_ws/basics_tuto/src/turtlesim_catch_them_all' returned '0': AMENT_PREFIX_PATH=/home/rayann/ros2_ws/basics_tuto/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/rayann/ros2_ws/basics_tuto/install/my_robot_interfaces LD_LIBRARY_PATH=/home/rayann/ros2_ws/basics_tuto/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/rayann/ros2_ws/basics_tuto/build/turtlesim_catch_them_all/prefix_override:/home/rayann/ros2_ws/basics_tuto/install/turtlesim_catch_them_all/lib/python3.10/site-packages:/home/rayann/ros2_ws/basics_tuto/install/my_robot_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_catch_them_all build --build-base /home/rayann/ros2_ws/basics_tuto/build/turtlesim_catch_them_all/build install --record /home/rayann/ros2_ws/basics_tuto/build/turtlesim_catch_them_all/install.log --install-scripts $base/lib/turtlesim_catch_them_all --single-version-externally-managed

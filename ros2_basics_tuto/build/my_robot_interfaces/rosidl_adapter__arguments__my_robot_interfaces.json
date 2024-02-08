@@ -1,0 +1,12 @@
+{
+  "package_name": "my_robot_interfaces",
+  "non_idl_tuples": [
+    "/home/rayann/ros2_ws/basics_tuto/src/my_robot_interfaces:msg/HardwareStatus.msg",
+    "/home/rayann/ros2_ws/basics_tuto/src/my_robot_interfaces:msg/LedStateArray.msg",
+    "/home/rayann/ros2_ws/basics_tuto/src/my_robot_interfaces:msg/Turtle.msg",
+    "/home/rayann/ros2_ws/basics_tuto/src/my_robot_interfaces:msg/TurtleArray.msg",
+    "/home/rayann/ros2_ws/basics_tuto/src/my_robot_interfaces:srv/ComputeRectangleArea.srv",
+    "/home/rayann/ros2_ws/basics_tuto/src/my_robot_interfaces:srv/SetLed.srv",
+    "/home/rayann/ros2_ws/basics_tuto/src/my_robot_interfaces:srv/CatchTurtle.srv"
+  ]
+}
