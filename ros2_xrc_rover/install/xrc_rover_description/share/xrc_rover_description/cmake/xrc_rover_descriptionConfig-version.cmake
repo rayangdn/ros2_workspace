@@ -1,1 +1,0 @@
-/home/rayann/xrc_rover/build/xrc_rover_description/ament_cmake_core/xrc_rover_descriptionConfig-version.cmake
